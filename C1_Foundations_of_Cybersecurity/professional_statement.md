@@ -1,0 +1,3 @@
+# Professional Statement
+
+As an inquisitive and detail-oriented individual with a keen interest in software security assessment and testing, I intend to utilize my analytical and problem-solving skills to help build a more secure digital landscape. My commitment to confidentiality, integrity, and availability aligns with the critical need for organizations to safeguard their valuable assets and maintain the trust of their customers. I am eager to contribute my skills and knowledge to a dynamic team and play my part in mitigating emerging threats to ensure security within our interconnected world.
