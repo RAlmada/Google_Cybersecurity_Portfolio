@@ -6,8 +6,6 @@ Course work for [Google's Cybersecurity specialization](https://www.coursera.org
 
 - [Professional Statement](./C1_Foundations_of_Cybersecurity/professional_statement.md)
 
-<details>
-	<summary>[Course 1 - Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity)</summary>
+## [Course 1 - Foundations of Cybersecurity](https://www.coursera.org/learn/foundations-of-cybersecurity)
 
-	- [Professional Statement](./C1_Foundations_of_Cybersecurity/professional_statement.md)
-</details>
+- [Professional Statement](./C1_Foundations_of_Cybersecurity/professional_statement.md)
